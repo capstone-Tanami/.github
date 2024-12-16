@@ -1,6 +1,5 @@
 # ✨Tanami: Land Utilization and Healthy Lifestyle | Bangkit Academy 2024 ✨
 
----
 
 ![image_intro_tanami](./image/slide-introduction.png)
 
@@ -22,7 +21,7 @@ By utilizing **unused land** and turning it into productive garden land, Tanami 
 
 **Together, we can build a healthier and more sustainable future.** 🌿💪
 
----
+
 
 ## ⚙️ Features
 
@@ -30,7 +29,7 @@ By utilizing **unused land** and turning it into productive garden land, Tanami 
 - **_Plant Recommendation_** – Suggests plants based on soil and environmental conditions.
 - **_Activity Sharing_** – Lets users share progress and experiences.
 
----
+
 
 ## 📖 Usage
 
@@ -38,7 +37,7 @@ By utilizing **unused land** and turning it into productive garden land, Tanami 
 2. Scan or manually input your soil type 🪴
 3. Share your progress and ask questions 🌍🤔
 
----
+
 
 ## 🧑‍🤝‍🧑 Market
 
@@ -48,7 +47,7 @@ Tanami targets urban communities and individuals interested in sustainable livin
 - Individuals with **small land spaces** looking to cultivate crops.
 - Those seeking to **improve their fiber** intake by growing their own produce.
 
----
+
 
 ## 🔮 Plan for the Future
 
@@ -62,7 +61,7 @@ We're always improving Tanami to make gardening easier and more fun. Check out t
 - **🌿 Expanded Plant Database**: Add more plant datasets for better recommendations.
 - **🏷️ Checkout System**: Allow users to directly purchase gardening tools and supplies from within the app.
 
----
+
 
 ## 🌈 GitHub Friends
 
