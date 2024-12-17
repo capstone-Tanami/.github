@@ -75,7 +75,7 @@ I appreciate my amazing team! This is my team:
 | M312B4KY2730 | **Muhammad Annys**               | Machine Learning    | [@Swordigo15](https://github.com/Swordigo15)         |
 | C312B4KY2747 | **Muhammad Arsyad Rayhan Aziis** | Cloud Computing     | [@Menghantui](https://github.com/SiHantuuu)          |
 | C312B4KY3588 | **Rafi Tri Ramadhan**            | Cloud Computing     | [@RafiTri](https://github.com/RafiTri)               |
-| M312B4KX3751 | **Reni Uswatun Hasanah**         | Project Maintainers | [@Areen](https://github.com/ReniUswatun)             |
+| M312B4KX3751 | **Reni Uswatun Hasanah**         | Machine Learning    | [@Areen](https://github.com/ReniUswatun)             |
 
 ---
 
